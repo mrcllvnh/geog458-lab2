@@ -11,7 +11,7 @@ Seattle and New York are both major cities with strong coffee cultures, but they
 ## Word Cloud Comparison
 
 ### Seattle, WA
-![Seattle Word Cloud](img/wordcloud-seattle.png)
+![Seattle Word Cloud](img/wordcloud-seattle.png.png)
 
 ### New York, NY
 ![New York Word Cloud](img/wordcloud-newyork.png)
